@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+    <g id="prefix__cross">
+        <path id="prefix__Rectangle_126" d="M0 0H14V14H0z" data-name="Rectangle 126" style="opacity:0;fill:#bebebe"/>
+        <g id="prefix__close">
+            <g id="prefix__Group_449" data-name="Group 449">
+                <path id="prefix__Path_565" d="M8.542 7.016l5.234-5.235a.767.767 0 000-1.083L13.318.24a.768.768 0 00-1.083 0L7 5.474 1.766.24a.767.767 0 00-1.083 0L.224.7a.766.766 0 000 1.083l5.235 5.233L.224 12.25a.768.768 0 000 1.083l.459.459a.767.767 0 001.083 0L7 8.557l5.234 5.234a.76.76 0 00.541.224.76.76 0 00.541-.224l.459-.459a.768.768 0 000-1.083z" data-name="Path 565" transform="translate(0 -.016)" style="fill:#bebebe"/>
+            </g>
+        </g>
+    </g>
+</svg>

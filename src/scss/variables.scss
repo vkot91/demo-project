@@ -1,0 +1,9 @@
+$gray-color: #bebebe;
+$blue-color-primary: #4d80e4;
+$red-color-primary: #d9354e;
+
+$border-bottom: 1px solid $gray-color;
+
+@function setHoverDarken($color) {
+  @return darken($color, 10%);
+}

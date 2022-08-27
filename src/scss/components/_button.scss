@@ -1,0 +1,23 @@
+
+.button {
+  padding: 7px 25px;
+  font-size: 17px;
+  min-width: 100px;
+  background-color: transparent;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 8px;
+  &.main {
+    background-color: $blue-color-primary;
+    &:hover {
+      background-color: setHoverDarken($blue-color-primary);
+    }
+  }
+  &.delete {
+    background-color: $red-color-primary;
+    &:hover {
+      background-color: setHoverDarken($red-color-primary);
+    }
+  }
+}
